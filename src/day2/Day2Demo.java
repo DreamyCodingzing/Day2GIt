@@ -10,4 +10,8 @@ public class Day2Demo {
 	/**
 	This is coming from other team member
 	*/
+	
+	String type = "Bazinga";
+	String sececondType = "Bazinga!";
+	System.out.println(type + " " + secondType);
 }
